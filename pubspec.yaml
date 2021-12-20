@@ -7,11 +7,11 @@ environment:
   sdk: '>=2.13.0 <3.0.0'
   flutter: ">=2.8.0"
 dependencies:
-
   extended_text_library: ^8.0.0
 
   flutter:
     sdk: flutter
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
